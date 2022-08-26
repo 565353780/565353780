@@ -6,14 +6,10 @@
   <a title="ORCID" target="_blank" href="https://orcid.org/0000-0003-0850-8987">
     <img src="https://img.shields.io/badge/ORCID-chLi-brightgreen">
   </a>
+  <a title="CSDN" target="_blank" href="https://blog.csdn.net/qq_49466306">
+    <img src="https://img.shields.io/badge/CSDN-chLi-brightgreen">
+  </a>
 </p>
-
-## Links
-
-```bash
-[ORCID](https://orcid.org/0000-0003-0850-8987)
-[CSDN](https://blog.csdn.net/qq_49466306)
-```
 
 ## Enjoy it~
 
