@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=565353780.readme)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Learn+what+you+want;Do+what+you+want" alt="typing-svg">
 </p>
@@ -10,6 +8,9 @@
   </a>
   <a title="CSDN" target="_blank" href="https://blog.csdn.net/qq_49466306">
     <img src="https://img.shields.io/badge/CSDN-chLi-brightgreen">
+  </a>
+  <a title="Visitors" target="_blank">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=565353780.readme">
   </a>
 </p>
 
