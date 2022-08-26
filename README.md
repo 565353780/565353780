@@ -15,8 +15,16 @@
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=565353780"/>
   <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=565353780&layout=compact&langs_count=8" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=565353780&layout=compact&langs_count=8"/>
   <span>  </span>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=565353780"/>
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=565353780&theme=minimal"/>
 </div>
 
 ## Enjoy it~
