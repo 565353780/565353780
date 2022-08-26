@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=565353780.readme)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Learn+what+you+want;Do+what+you+want" alt="typing-svg">
 </p>
