@@ -1,4 +1,4 @@
-# chLi
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learn+what+you+want;Do+what+you+want)](https://git.io/typing-svg)
 
 ## Links
 
