@@ -27,8 +27,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=565353780&theme=minimal"/>
 </div>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/565353780/565353780/master/dist/github-contribution-grid-snake.svg">
+</div>
 
 ## Enjoy it~
 
