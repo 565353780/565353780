@@ -39,9 +39,9 @@
 
 3. Learn and apply mainstream reinforcement learning frameworks, stable-baselines, rllib, etc. [USTC]
 
-4. 3D scene scanning and reconstruction based on reinforcement learning, stable-baselines, PPO, etc. [USTC]
+4. 3D scene scanning and reconstruction based on reinforcement learning with stable-baselines, PPO, etc. [USTC]
 
-5. Multi-robot 3D scene scanning and reconstruction based on semantic segmentation, voxblox++, GR-Net, etc. [USTC]
+5. Multi-robot 3D scene scanning and reconstruction based on semantic segmentation with voxblox++, GR-Net, etc. [USTC]
 
 ## Project experience
 
