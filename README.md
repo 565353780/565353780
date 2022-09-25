@@ -31,5 +31,37 @@
   <img src="https://raw.githubusercontent.com/565353780/565353780/output/github-contribution-grid-snake.svg">
 </div>
 
+## Research Experience
+
+Familiar with different SLAM frameworks.
+
+Proficiency in Robot Operating System (ROS).
+
+Learn and apply mainstream reinforcement learning frameworks (stable-baselines, rllib, etc.). [USTC]
+
+3D scene scanning and reconstruction based on reinforcement learning (stable-baselines, PPO, etc.). [USTC]
+
+Multi-robot 3D scene scanning and reconstruction based on semantic segmentation (voxblox++, GR-Net, etc.). [USTC]
+
+## Project experience
+
+Peeling Secant Optimization based on generating the longest trunk dendrogram (Peeling Art). [ABACI]
+
+Track edge recognition and segmentation for short track speed skating venues for national training team (Co with Intel). [ABACI]
+
+Curling tracking and curling track segmentation for national training team (Co with Intel). [ABACI]
+
+Target recognition and target tracking for figure skating performers for national training team (Co with Intel). [ABACI]
+
+Express parcel segmentation (Xianxiang Logistics). [ABACI]
+
+People flow tracking and statistics in shopping malls based on multi-camera (Hefei chain shoe store). [ABACI]
+
+2C and 4C anomaly detection of railway catenary (Hangzhou Ministry of Railways). [ABACI]
+
+Water drop identification and drop speed detection of hospital dropper (Shanghai Haiju Medical, Shanghai Qigan). [ABACI]
+
+Multi-objective edge extraction and quadrilateral fitting of moving boards in an assembly line (Sunvega factory production line). [Sunvega]
+
 ## Enjoy it~
 
