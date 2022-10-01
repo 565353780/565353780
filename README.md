@@ -33,7 +33,7 @@
 
 ## Research Experience
 
-1. Familiar with different SLAM frameworks.
+1. Familiar with different SLAM frameworks. [USTC]
 
 2. Proficiency in Robot Operating System. [USTC]
 
@@ -66,6 +66,8 @@
 10. Automatic generation of interior layout of tooling based on reinforcement learning. [Sunvega]
 
 11. Automatic segmentation and extraction of house layout based on DXF files. [Sunvega]
+
+12. NeRF-based object 3D reconstruction, rendering and mesh export with instant-ngp, meshnerfes, nerf-pl, etc. [Sunvega]
 
 ## Enjoy it~
 
