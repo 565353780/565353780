@@ -9,9 +9,6 @@
   <a title="CSDN" target="_blank" href="https://blog.csdn.net/qq_49466306">
     <img src="https://img.shields.io/badge/CSDN-chLi-brightgreen">
   </a>
-  <a title="Visitors" target="_blank">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=565353780.readme">
-  </a>
 </p>
 
 <div align="center">
