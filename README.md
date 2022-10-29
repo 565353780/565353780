@@ -66,5 +66,7 @@
 
 12. NeRF-based object 3D reconstruction, rendering and mesh export with instant-ngp, meshnerfes, nerf-pl, etc. [Sunvega]
 
+13. Tiled texture synthesis based on Block matching. [Sunvega]
+
 ## Enjoy it~
 
