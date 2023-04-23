@@ -68,5 +68,8 @@
 
 13. Tiled texture synthesis based on Block matching. [Sunvega]
 
-## Enjoy it~
+14. Automatic segmentation and extraction of house layout based on SVG files via CADTransformer. [Sunvega]
 
+15. Tiled texture synthesis based on Stable Diffusion and ControlNet. [Sunvega]
+
+## Enjoy it~
