@@ -40,7 +40,7 @@
 
 5. Multi-robot 3D scene scanning and reconstruction based on semantic segmentation with voxblox++, GR-Net, etc. [USTC]
 
-## Project experience
+## Project Experience
 
 1. Peeling Secant Optimization based on generating the longest trunk dendrogram for Peeling Art. [ABACI]
 
@@ -71,5 +71,18 @@
 14. Automatic segmentation and extraction of house layout based on SVG files via CADTransformer. [Sunvega]
 
 15. Tiled texture synthesis based on Stable Diffusion and ControlNet. [Sunvega]
+
+## Publications
+
+```bash
+@article{Guo-2022-AsyncScan,
+  title	=	{Asynchronous Collaborative Autoscanning with Mode Switching for Multi-Robot Scene Reconstruction},
+  author	=	{Junfu Guo, Changhao Li, Xi Xia, Ruizhen Hu, Ligang Liu},
+  journal	=	{ACM Transactions on Graphics (SIGGRAPH Asia 2022)},
+  volume	=	{41},
+  number	=	{6},
+  pages	=	{198:1 -- 198:13},
+  year	=	{2022}}
+```
 
 ## Enjoy it~
