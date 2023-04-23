@@ -76,13 +76,13 @@
 
 ```text
 @article{Guo-2022-AsyncScan,
-  title	=	{Asynchronous Collaborative Autoscanning with Mode Switching for Multi-Robot Scene Reconstruction},
-  author	=	{Junfu Guo, Changhao Li, Xi Xia, Ruizhen Hu, Ligang Liu},
-  journal	=	{ACM Transactions on Graphics (SIGGRAPH Asia 2022)},
-  volume	=	{41},
-  number	=	{6},
-  pages	=	{198:1 -- 198:13},
-  year	=	{2022}}
+  title = {Asynchronous Collaborative Autoscanning with Mode Switching for Multi-Robot Scene Reconstruction},
+  author  = {Junfu Guo, Changhao Li, Xi Xia, Ruizhen Hu, Ligang Liu},
+  journal = {ACM Transactions on Graphics (SIGGRAPH Asia 2022)},
+  volume  = {41},
+  number  = {6},
+  pages = {198:1 -- 198:13},
+  year  = {2022}}
 ```
 
 ## Enjoy it~
