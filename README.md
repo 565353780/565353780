@@ -30,17 +30,17 @@
 
 ## Research Experience
 
-1. Familiar with different SLAM frameworks. [USTC]
+1. Familiar with different SLAM frameworks (2017.9-2017.11). [USTC]
 
-2. Proficiency in Robot Operating System. [USTC]
+2. Proficiency in Robot Operating System (2017.11-2018.1). [USTC]
 
-3. Learn and apply mainstream reinforcement learning frameworks, stable-baselines, rllib, etc. [USTC]
+3. Learn and apply mainstream reinforcement learning frameworks, stable-baselines, rllib, etc (2018.1-2018.2). [USTC]
 
-4. 3D indoor scene scanning and reconstructing based on reinforcement learning with stable-baselines, PPO, etc. [USTC]
+4. 3D indoor scene scanning and reconstructing based on reinforcement learning with stable-baselines, PPO, etc (2018.2-2020.11). [USTC]
 
-5. Multi-robot 3D scene scanning and reconstructing based on semantic segmentation with voxblox++, GR-Net, etc. [USTC]
+5. Multi-robot 3D scene scanning and reconstructing based on semantic segmentation with voxblox++, GR-Net, etc (2020.11-2022.7). [USTC]
 
-6. 3D indoor scene CAD recomposition based on autonomous scanning by considering possible relations, etc. [USTC]
+6. 3D indoor scene CAD recomposition based on autonomous scanning by considering possible relations, etc (2022.7-2023.5). [USTC]
 
 ## Project Experience
 
@@ -76,6 +76,21 @@
 
 ## Publications
 
+1. Initial pipeline exploration and implementation (with Xi Xia, 2017.9-2020.11).
+
+```text
+@article{cao2023scanbot,
+  author = {Hezhi Cao, Xi Xia, Guan Wu, Ruizhen Hu, and Ligang Liu},
+  title = {ScanBot: Autonomous Reconstruction via Deep Reinforcement Learning},
+  journal = {ACM Transactions on Graphics (SIGGRAPH 2023)},
+  volume = {42},
+  number = {4},
+  pages = {Article 235},
+  year = {2023}}
+```
+
+2. Construction of multi-Fetch control package, simulation environment and surface reconstruction system (2020.11-2022.7).
+
 ```text
 @article{Guo-2022-AsyncScan,
   title = {Asynchronous Collaborative Autoscanning with Mode Switching for Multi-Robot Scene Reconstruction},
@@ -86,6 +101,8 @@
   pages = {198:1 -- 198:13},
   year = {2022}}
 ```
+
+3. Design and construction of ideas, whole pipeline and evaluation (2022.7-2023.5).
 
 ```text
 Note: need to update this in the future
