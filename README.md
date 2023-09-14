@@ -36,9 +36,11 @@
 
 3. Learn and apply mainstream reinforcement learning frameworks, stable-baselines, rllib, etc. [USTC]
 
-4. 3D scene scanning and reconstruction based on reinforcement learning with stable-baselines, PPO, etc. [USTC]
+4. 3D indoor scene scanning and reconstructing based on reinforcement learning with stable-baselines, PPO, etc. [USTC]
 
-5. Multi-robot 3D scene scanning and reconstruction based on semantic segmentation with voxblox++, GR-Net, etc. [USTC]
+5. Multi-robot 3D scene scanning and reconstructing based on semantic segmentation with voxblox++, GR-Net, etc. [USTC]
+
+6. 3D indoor scene CAD recomposition based on autonomous scanning by considering possible relations, etc. [USTC]
 
 ## Project Experience
 
@@ -83,6 +85,18 @@
   number = {6},
   pages = {198:1 -- 198:13},
   year = {2022}}
+```
+
+```text
+Note: need to update this in the future
+@article{Li-2023-Online,
+  title = {Online Scene CAD Recomposition via Autonomous Scanning},
+  author = {Changhao Li, Junfu Guo, Ruizhen Hu, Ligang Liu},
+  journal = {ACM Transactions on Graphics (SIGGRAPH Asia 2023)},
+  volume = {?},
+  number = {?},
+  pages = {?:1 -- ?:15},
+  year = {2023}}
 ```
 
 ## Enjoy it~
