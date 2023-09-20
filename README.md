@@ -110,8 +110,8 @@ Note: need to update this in the future
   title = {Online Scene CAD Recomposition via Autonomous Scanning},
   author = {Changhao Li, Junfu Guo, Ruizhen Hu, Ligang Liu},
   journal = {ACM Transactions on Graphics (SIGGRAPH Asia 2023)},
-  volume = {?},
-  number = {?},
+  volume = {42},
+  number = {6},
   pages = {?:1 -- ?:15},
   year = {2023}}
 ```
