@@ -105,14 +105,13 @@
 3. Design and construction of ideas, whole pipeline and evaluation (2022.7-2023.5).
 
 ```text
-Note: need to update this in the future
 @article{Li-2023-Online,
   title = {Online Scene CAD Recomposition via Autonomous Scanning},
   author = {Changhao Li, Junfu Guo, Ruizhen Hu, Ligang Liu},
   journal = {ACM Transactions on Graphics (SIGGRAPH Asia 2023)},
   volume = {42},
   number = {6},
-  pages = {?:1 -- ?:15},
+  pages = {Article 250},
   year = {2023}}
 ```
 
