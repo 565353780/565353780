@@ -111,7 +111,7 @@
   journal = {ACM Transactions on Graphics (SIGGRAPH Asia 2023)},
   volume = {42},
   number = {6},
-  pages = {Article 250},
+  pages = {Article 250: 1-16},
   year = {2023}}
 ```
 
