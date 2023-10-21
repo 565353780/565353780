@@ -89,6 +89,12 @@
   year = {2023}}
 ```
 
+```text
+Hezhi Cao, Xi Xia, Guan Wu, Ruizhen Hu, and Ligang Liu.
+ScanBot: Autonomous Reconstruction via Deep Reinforcement Learning.
+ACM Transactions on Graphics (Proc. SIGGRAPH), 42(4), Article 235, 2023.
+```
+
 2. Construction of multi-Fetch control package, simulation environment and surface reconstruction system (2020.11-2022.7).
 
 ```text
@@ -102,6 +108,12 @@
   year = {2022}}
 ```
 
+```text
+Junfu Guo, Changhao Li, Xi Xia, Ruizhen Hu, Ligang Liu.
+Asynchronous Collaborative Autoscanning with Mode Switching for Multi-Robot Scene Reconstruction.
+ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 41(6), Article 198: 1-13, 2022.
+```
+
 3. Design and construction of ideas, whole pipeline and evaluation (2022.7-2023.5).
 
 ```text
@@ -113,6 +125,12 @@
   number = {6},
   pages = {Article 250: 1-16},
   year = {2023}}
+```
+
+```text
+Changhao Li, Junfu Guo, Ruizhen Hu, Ligang Liu.
+Online Scene CAD Recomposition via Autonomous Scanning.
+ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 42(6), Article 250: 1-16, 2023.
 ```
 
 ## Enjoy it~
