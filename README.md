@@ -38,9 +38,17 @@
 
 4. 3D indoor scene scanning and reconstructing based on reinforcement learning with stable-baselines, PPO, etc (2018.2-2020.11). [USTC]
 
-5. Multi-robot 3D scene scanning and reconstructing based on semantic segmentation with voxblox++, GR-Net, etc (2020.11-2022.7). [USTC]
+5. Multi-robot 3D scene scanning and reconstructing based on semantic segmentation with voxblox++, GR-Net, etc (2020.11-2022.7, Co with SZU). [USTC]
 
-6. 3D indoor scene CAD recomposition based on autonomous scanning by considering possible relations, etc (2022.7-2023.5). [USTC]
+6. 3D indoor scene CAD recomposition based on autonomous scanning by considering possible relations, etc (2022.7-2023.5, Co with SZU). [USTC]
+
+7. Research on autonomous scene reconstruction of robots based on large language models and instruction interaction (2023.5-2023.10, Co with SZU). [USTC]
+
+8. Research and implementation of 3D shape surface reconstruction based on differentiable calculation using Pytorch (2023.10-2024.5, Co with SZU). [USTC]
+
+9. Research and implementation of 3D shape generation algorithms based on parametric representation using diffusion models (2023.12-2024.6, Co with SZU). [USTC]
+
+10. Research and implementation of novel view synthesis algorithms based on the combination of parametric representation and 3DGS (2024.5-2024.6, Co with SZU). [USTC]
 
 ## Project Experience
 
@@ -73,6 +81,14 @@
 14. Automatic segmentation and extraction of house layout based on SVG files via CADTransformer. [Sunvega]
 
 15. Tiled texture synthesis based on Stable Diffusion and ControlNet. [Sunvega]
+
+16. Efficient K-dim B-Spline curve intersection solution algorithm based on tree search. [AMCAX]
+
+17. Local detail-aware point cloud denoising algorithm, with Open3D normal estimation (also group leader & mentor). [AMCAX]
+
+18. Both heuristic and learning-based point cloud surface reconstruction algorithms, with PoissonRecon and ARO-Net and SA-ConvONet (also group leader & mentor). [AMCAX]
+
+19. Algorithm for automatic fitting of B-Spline surfaces to arbitrary input point cloud based on differentiable calculation using Pytorch (also group leader & mentor). [AMCAX]
 
 ## Publications
 
