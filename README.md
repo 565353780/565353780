@@ -94,6 +94,8 @@
 
 1. Initial pipeline exploration and implementation (with Xi Xia, 2017.9-2020.11).
 
+[Project Page](https://hezhicao.github.io/Scanbot/)
+
 ```text
 @article{cao2023scanbot,
   author = {Hezhi Cao, Xi Xia, Guan Wu, Ruizhen Hu, and Ligang Liu},
@@ -113,6 +115,8 @@ ACM Transactions on Graphics (Proc. SIGGRAPH), 42(4), Article 235, 2023.
 
 2. Construction of multi-Fetch control package, simulation environment and surface reconstruction system (2020.11-2022.7).
 
+[Project Page](https://guojunfu-tech.github.io/AsyncScan/)
+
 ```text
 @article{Guo-2022-AsyncScan,
   title = {Asynchronous Collaborative Autoscanning with Mode Switching for Multi-Robot Scene Reconstruction},
@@ -131,6 +135,8 @@ ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 41(6), Article 198: 1-13, 20
 ```
 
 3. Design and construction of ideas, whole pipeline and evaluation (2022.7-2023.5).
+
+[Project Page](https://565353780.github.io/AutoScan2CAD/)
 
 ```text
 @article{Li-2023-Online,
